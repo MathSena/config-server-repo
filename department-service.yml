@@ -10,7 +10,7 @@ spring:
     hibernate:
       ddl-auto: update
   boot:
-    message: Hello, Department Service Spring Cloud Updated
+    message: Hello, Department Service Spring Cloud Bus Demo
 eureka:
   client:
     fetch-registry: true
